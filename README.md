@@ -66,5 +66,5 @@ Run all cells to see results.
 ---
 
 ## Author
-Pham Hoang Phuc & Đặng Hồ Trubg Hiếu
+Pham Hoang Phuc & Đặng Hồ Trung Hiếu
 MIS443 - Business Data Management
