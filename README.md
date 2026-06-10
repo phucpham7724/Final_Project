@@ -1,4 +1,4 @@
-# Final_Project
+# Final_Project - MIS443
 # Chinook Database Project - MIS443
 
 ## Overview
